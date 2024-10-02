@@ -131,6 +131,3 @@ ConvoSpace is a modern chat application designed to provide seamless communicati
 - `STOP_TYPING`: Broadcasted to all members of a chat when a user stops typing.
 - `ONLINE_USERS`: Broadcasted to all members of a chat when a user joins or leaves.
 
-## File Structure
-
-### Backend
